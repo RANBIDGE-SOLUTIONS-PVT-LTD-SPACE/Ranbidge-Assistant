@@ -1,0 +1,7 @@
+{
+  "name": "Ranbidge Solutions Assistant",
+  "description": "Official AI assistant for Ranbidge Solutions Private Limited, providing professional customer support with voice and wake-word capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
